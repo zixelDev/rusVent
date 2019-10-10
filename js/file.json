@@ -1,0 +1,6 @@
+{
+    "name": "John",
+    "surname": "Smith",
+    "age": 30,
+    "isFake": true
+}
